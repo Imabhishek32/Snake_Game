@@ -15,7 +15,7 @@ direction = 'down'
 
 
 window = tk.Tk()
-window.title("Snake Game")
+window.title("Snake Game Abhishek")
 
 label = tk.Label(window, text="Score:0", font=("Arial",16))
 label.pack()
